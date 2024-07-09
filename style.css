@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.content{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img{
+    max-width: 400px;
+    padding-bottom: 10px;
+}
